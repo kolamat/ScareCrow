@@ -106,6 +106,7 @@ span {
   img {
     align-self: center;
     object-fit: contain;
+    width: 300px;
   }
 }
 
